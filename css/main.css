@@ -4,3 +4,32 @@
 .nav-spacing {
   margin: 0 0 0 10px;
 }
+.image-link {
+   text-decoration: none;
+}
+.review-block {
+  width: 500px;
+  margin: 20px auto;
+  padding: 30px;
+  background-color:
+  #fafafa;"
+}
+.blockquote {
+  font-style: italic;
+  font-size: 20px;
+}
+.tags-td {
+  padding: 10px
+}
+#img-moby {
+  float: left;
+  margin: 0 40px 0 0;
+}
+#header-moby {
+  text-align: center;
+  margin: 0 0 80px;
+}
+#img-sperm {
+  display: block;
+  margin: 0 auto
+}
